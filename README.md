@@ -55,11 +55,11 @@
 -	**Reassignable:** You can change the value stored in a variable at any time.<br>
   **NOTE: Python style guide:** https://peps.python.org/pep-0008/
 
-### **if Statements in Python**
-Conditional execution: if statements allow you to control the flow of your program based on whether a condition is true or false.
-**elif Statements**
-Multiple conditions: Used to check for multiple conditions sequentially.
-**Key Points:**
+### **if Statements in Python**<br>
+Conditional execution: if statements allow you to control the flow of your program based on whether a condition is true or false.<br>
+**elif Statements**<br>
+Multiple conditions: Used to check for multiple conditions sequentially.<br>
+**Key Points:**<br>
     - if statements are essential for making decisions and controlling the flow of your Python programs.
     - elif statements allow you to check for multiple conditions in a more concise way.
     - The else block is optional and executes when none of the preceding if or elif conditions are true.
