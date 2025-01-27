@@ -2,10 +2,10 @@
 ![hello-world](https://github.com/user-attachments/assets/32a87345-b105-4a63-88ec-badcd19bd2eb)
 
 ## **Get Started**
--	To get started we will need to first download Python onto our local system. To do so, please go on python.org/downloads, there you will find the download link.<br>
-**NOTE: The website will automatically recognise what type of operating system your local machine is using (MacOS, Windows or Linux)**
+-	To get started we will need to first download Python onto our local system. To do so, please go on https://www.python.org/downloads/, there you will find the download link.<br>
+  **NOTE: The website will automatically recognise what type of operating system your local machine is using (MacOS, Windows or Linux)**
 -	Once you have downloaded Python please download Pycharm, type into Google Pycharm Download and you should find the website to download. <br>
-**NOTE: Please ensure you download the Community Edition of Pycharm**
+  **NOTE: Please ensure you download the Community Edition of Pycharm**
 
 ### **What is Python** 
 -	**High-level programming language:** Python is known for its clear and readable syntax, making it easier to learn and use compared to many other languages. 
@@ -27,8 +27,8 @@
 -	**Numbers:** There two type of number data types we tend to do deal with in Python they are integers which are whole numbers or floating point numbers which deal with number with decimals
 -	**String:** Which deal with characters or text
 -	**Boolean:** Which are either true or false statements
--	To view what type of data you are dealing with you can run this code; PRINT(type(Enter a statement or number))
-. **NOTE: There many type of data we can deal with in Python but these are the 3 most common.**
+-	To view what type of data you are dealing with you can run this code; PRINT(type(Enter a statement or number))<br>
+  **NOTE: There many type of data we can deal with in Python but these are the 3 most common.**
 
 ![Screenshot 2025-01-27 at 11 09 07](https://github.com/user-attachments/assets/d10bec2a-78c6-4490-8329-d309e0beac23)
 
@@ -43,7 +43,7 @@
 - **Sequence of characters:** A string is a collection of characters (letters, numbers, symbols, spaces) enclosed within single quotes (') or double quotes (").
 - **Immutable:** Once created, a string cannot be changed. Any operation that appears to modify a string actually creates a new string.
 - **Used for text:** Strings are fundamental for representing text data like names, messages, file paths, and more.<br>
-- **NOTE: String types:** https://docs.python.org/3/library/stdtypes.html#string-methods
+  **NOTE: String types:** https://docs.python.org/3/library/stdtypes.html#string-methods
 
 ### **Variables in Python**
 -	**Hold data:** Variables are like containers that store data within a Python program.
@@ -53,7 +53,7 @@
 -	**Case-sensitive:** Variable names are case-sensitive (age and Age are different variables).
 -	**Naming conventions:** Use descriptive names for better readability (e.g., customer_name instead of c).
 -	**Reassignable:** You can change the value stored in a variable at any time.<br>
-**NOTE: Python style guide:** https://peps.python.org/pep-0008/
+  **NOTE: Python style guide:** https://peps.python.org/pep-0008/
 
 ### **Commands in Python**
 
