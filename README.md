@@ -1,5 +1,5 @@
 # **Python**
-![https://tenor.com/view/hello-world-gif-10535551562429100624]
+![hello-world](https://github.com/user-attachments/assets/32a87345-b105-4a63-88ec-badcd19bd2eb)
 
 ## **Get Started**
 -	To get started we will need to first download Python onto our local system. To do so, please go on python.org/downloads, there you will find the download link.<br>
