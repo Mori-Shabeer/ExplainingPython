@@ -109,3 +109,18 @@ while game_active:
     else:
         print("Please enter a number greater than 100")
 print(f"Number you have entered is {number}")
+
+print("\nQ4b\n")
+# Q4b: Continue this code and print "prime" if the number is a prime number and "not prime" otherwise
+
+# A4b:
+is_prime = True
+
+for i in range(2, int(number ** 0.5) + 1):
+    if number % i == 0:
+        is_prime = False
+
+if is_prime:
+    print("Is prime number")
+else:
+    print("Not prime number")
