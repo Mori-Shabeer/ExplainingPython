@@ -36,8 +36,8 @@
 ### **Numbers in Python** 🔢
 Numbers are used to represent quantities, measurements, and perform mathematical calculations in Python. 🧮<br>
 There are two main types of numbers:
-* **Integers (int):** Whole numbers, like 10, -5, and 0. 💯  -5️⃣  0️⃣
-* **Floats (float):** Numbers with decimal points, like 3.14 and -2.5. 3️⃣.1️⃣4️⃣  -2️⃣.5️⃣
+* **Integers (int):** Whole numbers, like 10, -5, and 0. 
+* **Floats (float):** Numbers with decimal points, like 3.14 and -2.5. 
 
 ### **Strings in Python** 🔡
 - A string is a sequence of characters, including letters, numbers, symbols, and spaces, enclosed within single quotes (') or double quotes ("). 🗨️  '"This is a string!"' 🗨️
@@ -50,7 +50,7 @@ There are two main types of numbers:
 - You can give variables meaningful names to represent the information they hold (e.g., `age`, `name`, `price`).  🏷️
 - Python uses **dynamic typing**, meaning it automatically determines the data type (integer, string, etc.) of a variable based on the value assigned to it. 🪄
 - You create a variable by assigning a value to it using the = operator (e.g., `age = 30`, `name = "John"`).  🔨
-- Variable names are **case-sensitive**. This means that `age` and `Age` are considered different variables.  大小写敏感  `age != Age`
+- Variable names are **case-sensitive**. This means that `age` and `Age` are considered different variables.  `age != Age`
 - Use descriptive names for better readability (e.g., `customer_name` instead of `c`).  📖 ❌ c  ✅ customer_name
 - The value stored in a variable can be changed at any time.  🔄<br>
 **NOTE:** Python style guide: https://peps.python.org/pep-0008/
