@@ -33,19 +33,19 @@
 ![Screenshot 2025-01-27 at 11 09 07](https://github.com/user-attachments/assets/d10bec2a-78c6-4490-8329-d309e0beac23)
 
 
-### **Numbers in Python** 🔢
-Numbers are used to represent quantities, measurements, and perform mathematical calculations in Python. 🧮<br>
+### **Numbers in Python** 
+Numbers are used to represent quantities, measurements, and perform mathematical calculations in Python.<br>
 There are two main types of numbers:
 * **Integers (int):** Whole numbers, like 10, -5, and 0. 
 * **Floats (float):** Numbers with decimal points, like 3.14 and -2.5. 
 
-### **Strings in Python** 🔡
-- A string is a sequence of characters, including letters, numbers, symbols, and spaces, enclosed within single quotes (') or double quotes ("). 🗨️  '"This is a string!"' 🗨️
+### **Strings in Python** 
+- A string is a sequence of characters, including letters, numbers, symbols, and spaces, enclosed within single quotes (') or double quotes (").   '"This is a string!"' 🗨
 - Strings are immutable, meaning that once created, their content cannot be changed. Any operation that appears to modify a string actually creates a new string. 🔒
 - Strings are fundamental for representing text data like names, messages, file paths, and more. 📄  ℹ️  📁<br>
 **NOTE:** String types: https://docs.python.org/3/library/stdtypes.html#string-methods
 
-### Variables in Python 📌
+### Variables in Python 
 - Variables are like containers that store data within a Python program.  📦
 - You can give variables meaningful names to represent the information they hold (e.g., `age`, `name`, `price`).  🏷️
 - Python uses **dynamic typing**, meaning it automatically determines the data type (integer, string, etc.) of a variable based on the value assigned to it. 🪄
