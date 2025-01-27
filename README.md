@@ -60,9 +60,9 @@ Conditional execution: if statements allow you to control the flow of your progr
 **elif Statements**<br>
 Multiple conditions: Used to check for multiple conditions sequentially.<br>
 **Key Points:**<br>
-    - if statements are essential for making decisions and controlling the flow of your Python programs.
-    - elif statements allow you to check for multiple conditions in a more concise way.
-    - The else block is optional and executes when none of the preceding if or elif conditions are true.
+    - **if** statements are essential for making decisions and controlling the flow of your Python programs.
+    - **elif** statements allow you to check for multiple conditions in a more concise way.
+    - The **else** block is optional and executes when none of the preceding if or elif conditions are true.
 
 ### **Collections**
 -	A framework for working with groups of objects.
@@ -87,9 +87,9 @@ Multiple conditions: Used to check for multiple conditions sequentially.<br>
 -	Repeated execution: Execute a block of code as long as a given condition is True.<br>
 #### **For Loops**
 -	Iterate over a sequence: Execute a block of code for each item in a sequence (e.g., list, tuple, string).<br>
-####**Key Points:**
--	while loops: Continue as long as the condition remains True. Be careful to avoid infinite loops.
--	for loops: Ideal for iterating over elements in a collection.
+#### **Key Points:**
+-	**while** loops: Continue as long as the condition remains True. Be careful to avoid infinite loops.
+-	**for** loops: Ideal for iterating over elements in a collection.
 
 ### **Commands in Python**
 
