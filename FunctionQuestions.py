@@ -4,7 +4,6 @@ print("\nQ1a\n")
 # hint: range(1, n) returns a collection of the numbers from 1 to n-1
 
 # A1a:
-
 def divisors(n):
     return [i for i in range(1, n + 1) if n % i == 0]
 
@@ -103,8 +102,7 @@ def is_prime_safe(input_value):
         return is_prime(n)
     except ValueError:
         return False
-
-
+        
 print(is_prime_safe(7))
 print(is_prime_safe("abc"))
 print(is_prime_safe("11"))
