@@ -64,6 +64,33 @@ Multiple conditions: Used to check for multiple conditions sequentially.<br>
     - elif statements allow you to check for multiple conditions in a more concise way.
     - The else block is optional and executes when none of the preceding if or elif conditions are true.
 
+### **Collections**
+-	A framework for working with groups of objects.
+-	Provides efficient ways to store, access, and manipulate data.
+-	Common collection types in Python include lists, tuples, sets, and dictionaries.<br>
+#### **Lists**
+-	Ordered, mutable sequence of objects.
+-	Enclosed in square brackets [].
+-	Can store elements of different data types (e.g., integers, strings, other lists).
+-	Accessed by index (zero-based).
+-	Supports various operations like appending, inserting, removing, and slicing.<br>
+#### **Dictionaries**
+-	Unordered collection of key-value pairs.
+-	Enclosed in curly braces {}.
+-	Keys are unique and immutable (often strings or numbers).
+-	Values can be of any data type.   
+-	Accessed by their keys.
+-	Efficient for looking up values based on keys.
+-	
+### **Loops in Python**
+#### **While Loops**
+-	Repeated execution: Execute a block of code as long as a given condition is True.<br>
+#### **For Loops**
+-	Iterate over a sequence: Execute a block of code for each item in a sequence (e.g., list, tuple, string).<br>
+####**Key Points:**
+-	while loops: Continue as long as the condition remains True. Be careful to avoid infinite loops.
+-	for loops: Ideal for iterating over elements in a collection.
+
 ### **Commands in Python**
 
 | Command | Description |
