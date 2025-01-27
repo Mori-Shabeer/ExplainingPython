@@ -65,10 +65,6 @@
 | `print(len(Followed by statement))` | Allows you to find out the length or total characters in your string statement. |
 | `print(string.upper())` | Converts all characters in the string to uppercase. |
 | `print(string.lower())` | Converts all characters in the string to lowercase. |
-| `print(string.split())` | Splits the string into a list of substrings based on a separator (default is whitespace). |
-| `print(string.join(list))` | Joins a list of strings into a single string using the string as a separator. |
-| `print(string.find(substring))` | Returns the index of the first occurrence of the substring within the string. |
-| `print(string.replace(old, new))` | Returns a new string with all occurrences of the old substring replaced with the new substring. |
 
 ### **Arithmetic Operators in Python**
 
